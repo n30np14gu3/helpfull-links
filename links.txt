@@ -1,0 +1,71 @@
+1. Полезные ссылки 
+  ===Сайты/блоги===
+    https://habrahabr.ru - мастхэв, тут вроде все
+    https://xakep.ru/ - статейки про инфобез, но серьезные статьи только при подписке активной
+    http://www.securitylab.ru/
+    https://www.kaspersky.ru/blog/
+    https://bo0om.ru/
+    http://kmb.ufoctf.ru/index.html //Введение в CTF и прикреплены курсы от команды Hackerdom
+  ===Полезные ресурсы===
+    https://vk.com/spbctf //Группа СПбЦТФ
+    https://github.com/ctfs //Репозитории на гитхабе с решениями почти всех прошедших CTF, рекомендую проверять время от времени и просто полистать для общего развития
+    https://www.youtube.com/channel/UCaqi7baKiDd8jMR_fyjjccw //Видосы SPbCTF, там очень много реверс(любителям си), про веб и еще что-то
+    https://www.youtube.com/channel/UC0-ELAiligc7HYUyAtIJMQg //Видео от компании Positive Technologies
+    https://drive.google.com/drive/folders/0B5rqWHARHFcVNUpNamdoMlRqRm8 //Полезные книжечки
+    https://yadi.sk/d/TA-RQXFQzKomf //Тоже книжечки, сборная солянка из всего(мало нужного, много ненужного)
+
+  ====== Вот это очень нужно, прям в закладки добавить, все ctf с датами и прочим
+    https://ctftime.org/
+
+  ===Потренироваться===
+    http://training.hackerdom.ru/board/ - тренировочки от хакердома. От простого к сложному.
+    Мне стыдно внаглую тырить, так что вот, первый пост, там ссылки на оффлайн ctf(один или два примера с презентации стырено с root-me.hzkakdalshe):
+    https://vk.com/topic-114366489_33670323
+
+2. Поучиться
+  http://pythontutor.ru/ - поэтапное обучение питону, встречается везде и просто удобный язык
+  Опять же смотреть всякие видосики и прочее. 
+  Если интересен си и дизассемблирование, то подойдите к Федорому Дмитрию Юрьевичу. Ну или можете мне чиркануть, я тоже могу по материалам сориентировать.
+  https://vxlab.info/wasm/index.php.htm - очень полезная, но сложная дичь, полный курс статей, чтобы стать гуру винды и ассемблера
+  https://exelab.ru/faq/ - типа вики exelab.
+
+3. Телеграм каналы
+  ===Инвайт в спбцтф в телеге, весь актив там и я еле нашел эту ссылку===
+    https://t.me/joinchat/AAAAAEKPQcvvhko19POaQA - сам чат
+    https://t.me/spbctf - новости СПбЦТФ
+
+    https://t.me/bzd_channel - библиотека. Если нужна какая-либо специальная книга, то поищите сначала тут.
+    https://t.me/alexmakus - просто интересный канал с инфобезом, новости и прочее
+    @GetSploitBot в телеграме - поиск по базе уязвимостей, полезная штука.
+    @flibustafreebookbot в телеграме - поиск книжечек, флибуста жи
+    Там же искать Кевина Митника "Искусство обмана", очень занятная книга.
+
+    https://t.me/hacker_lib - не слитые журналы из не хакера
+    https://t.me/ibach - тоже интересный канал, но к сожалению редко обновляют.
+    https://t.me/infosecmemes - мемы
+    https://t.me/alexmakus - Информация опасносте))
+
+===Полезные сайты по реверсу и ИБ===
+  http://hex.pp.ua - Полезные доки по недокументированным функциям
+  http://undocumented.ntinternals.net - Еще доки
+
+  https://www.youtube.com/watch?v=PvA316tqfNE&list=PL59fvn5FIiQG0CrnALLgXzdpDTOk0hrz2 - отладка в OllyDbg
+  https://wasm.in/blogs/vvedenie-v-reversing-s-nulja-ispolzuja-ida-pro-chast-1.3/ - реверс с IDA Pro
+  https://tproger.ru/translations/23-hacking-sites-for-practice/ - тупо сайты
+
+===Магнит для материалов по пентесту===
+magnet:?xt=urn:btih:f91feb6d2ea93f1c3c03b6be52051c2df72da1b7&dn=CERTCOLLECTION+-+BASELINE+-+SANS+%26+Offensive-Security&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//tracker.zer0day.to%3A1337&tr=udp%3A//public.popcorn-tracker.org%3A6969&tr=udp%3A//tracker.leechers-paradise.org%3A6969&tr=udp%3A//explodie.org%3A6969
+--------------
+
+===Полезные сурсы с гитхаба===
+  https://github.com/rootm0s/Protectors - пак сурсов по протекторам, обфускаторам и т.д.
+  https://github.com/mq1n/NoMercy  - Опенсурс античит
+  https://github.com/perilouswithadollarsign/cstrike15_src - исходники старой кс xD
+  https://github.com/adrianyy/EACReversing - реверс анализ EAC
+  https://github.com/dsasmblr/game-hacking - полезные туториалы по game хакингу (для образования)
+  https://github.com/DarthTon/Blackbone - мастхев, топ сдк для геймхакинга
+
+===Сайты по реверсу / гейм хакингу===
+  https://forum.tuts4you.com - топ форум по реверcу
+  https://www.unknowncheats.me/forum/index.php - форум по читам. Тут есть любая информация по созданию читов, от основ, до написания драйверов (там кста не только читы)
+  https://crackmes.one - сайт с большим кол-вом crackme от разных пользователей, можно найти много интересных крякми для тренировки реверса

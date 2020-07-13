@@ -1,2 +1,2 @@
-# helpfull-links
-Helpful links for educational only
+# Дохрена полезных ссылок
+Тут находится список полезных ссылок для изучения ИБ

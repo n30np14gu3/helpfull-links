@@ -48,10 +48,14 @@
 ===Полезные сайты по реверсу и ИБ===
   http://hex.pp.ua - Полезные доки по недокументированным функциям
   http://undocumented.ntinternals.net - Еще доки
-
+  
+  https://cloud.mail.ru/public/4aGL/3EFRUMvq6/  - Cлив OTUS по реверсу
+  https://habr.com/ru/company/dsec/blog/334832/ - Список материалов по реверсу от DigitalSecurity
+  
   https://www.youtube.com/watch?v=PvA316tqfNE&list=PL59fvn5FIiQG0CrnALLgXzdpDTOk0hrz2 - отладка в OllyDbg
   https://wasm.in/blogs/vvedenie-v-reversing-s-nulja-ispolzuja-ida-pro-chast-1.3/ - реверс с IDA Pro
-  https://tproger.ru/translations/23-hacking-sites-for-practice/ - тупо сайты
+  
+  https://tproger.ru/translations/23-hacking-sites-for-practice/ - тупо сайты по CTF площадкам
 
 ===Магнит для материалов по пентесту===
 magnet:?xt=urn:btih:f91feb6d2ea93f1c3c03b6be52051c2df72da1b7&dn=CERTCOLLECTION+-+BASELINE+-+SANS+%26+Offensive-Security&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//tracker.zer0day.to%3A1337&tr=udp%3A//public.popcorn-tracker.org%3A6969&tr=udp%3A//tracker.leechers-paradise.org%3A6969&tr=udp%3A//explodie.org%3A6969

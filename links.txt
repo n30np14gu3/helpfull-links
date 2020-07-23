@@ -73,3 +73,13 @@ magnet:?xt=urn:btih:f91feb6d2ea93f1c3c03b6be52051c2df72da1b7&dn=CERTCOLLECTION+-
   https://forum.tuts4you.com - топ форум по реверcу
   https://www.unknowncheats.me/forum/index.php - форум по читам. Тут есть любая информация по созданию читов, от основ, до написания драйверов (там кста не только читы)
   https://crackmes.one - сайт с большим кол-вом crackme от разных пользователей, можно найти много интересных крякми для тренировки реверса
+
+===Ring 0===
+https://github.com/j00ru/windows-syscalls - Таблица вызовов Syscall
+https://shhoya.github.io/antikernel_bypassob.html - Байпас ObRegisterCallback (на корейском)
+https://www.adlice.com/kernelmode-rootkits-part-1-ssdt-hooks/ - Информация про ссдт хуки
+https://github.com/notscimmy/libelevate - Байпас ObRegisterCallback через один драйвер
+https://www.securitylab.ru/analytics/241543.php - Информация про сисколы на русском
+https://www.codeguru.com/cpp/w-p/system/devicedriverdevelopment/article.php/c8035/How-Do-Windows-NT-System-Calls-REALLY-Work.htm - Информация о сисколах на английском
+https://www.unknowncheats.me/forum/anti-cheat-bypass/271733-driver-aka-kernel-mode.html - Обход ObRegisterCallback на английском (оч понятно)
+https://www.unknowncheats.me/forum/c-and-c/59147-writing-drivers-perform-kernel-level-ssdt-hooking.html - Написание SSDT хука

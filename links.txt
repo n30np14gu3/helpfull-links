@@ -68,6 +68,9 @@ magnet:?xt=urn:btih:f91feb6d2ea93f1c3c03b6be52051c2df72da1b7&dn=CERTCOLLECTION+-
   https://github.com/adrianyy/EACReversing - реверс анализ EAC
   https://github.com/dsasmblr/game-hacking - полезные туториалы по game хакингу (для образования)
   https://github.com/DarthTon/Blackbone - мастхев, топ сдк для геймхакинга
+  https://github.com/HEJlbCOH/UNIHwid - HWID Spoofer
+  https://github.com/namazso/hdd_serial_spoofer - Еще один HWID спуфер
+  https://github.com/EngineOwningSoftware/pcileech-webradar - Хардвейерный чит (https://www.unknowncheats.me/forum/anti-cheat-bypass/301133-pcie-dma-cheat.html)
 
 ===Сайты по реверсу / гейм хакингу===
   https://forum.tuts4you.com - топ форум по реверcу

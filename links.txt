@@ -75,6 +75,7 @@ magnet:?xt=urn:btih:38f947ceadf06e6d3ffc2b37b807d7ef80b57f21&dn=Intel%20exconfid
   https://github.com/HEJlbCOH/UNIHwid - HWID Spoofer
   https://github.com/namazso/hdd_serial_spoofer - Еще один HWID спуфер
   https://github.com/EngineOwningSoftware/pcileech-webradar - Хардвейерный чит (https://www.unknowncheats.me/forum/anti-cheat-bypass/301133-pcie-dma-cheat.html)
+  https://github.com/hzqst/VmwareHardenedLoader - Байпас VM DEtect
 
 ===Сайты по реверсу / гейм хакингу===
   https://forum.tuts4you.com - топ форум по реверcу

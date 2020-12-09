@@ -5,7 +5,7 @@
     http://www.securitylab.ru/
     https://www.kaspersky.ru/blog/
     https://bo0om.ru/
-    http://kmb.ufoctf.ru/index.html //Введение в CTF и прикреплены курсы от команды Hackerdom
+    https://kmb.cybber.ru/hackerdom/main.html //Введение в CTF и прикреплены курсы от команды Hackerdom
   ===Полезные ресурсы===
     https://vk.com/spbctf //Группа СПбЦТФ
     https://github.com/ctfs //Репозитории на гитхабе с решениями почти всех прошедших CTF, рекомендую проверять время от времени и просто полистать для общего развития

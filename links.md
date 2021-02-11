@@ -81,6 +81,10 @@
 5. https://www.unknowncheats.me/forum/anti-cheat-bypass/271733-driver-aka-kernel-mode.html - Обход ObRegisterCallback на английском (оч понятно)
 6. https://www.unknowncheats.me/forum/c-and-c/59147-writing-drivers-perform-kernel-level-ssdt-hooking.html - Написание SSDT хука
 
+## UEFI / EFI
+1. https://habr.com/ru/company/acronis/blog/511172/ - В целом введение в разработку под UEFI
+2. https://habr.com/ru/post/266935/ - Тоже про UEFI (там много частей, так что стоит прочитать все)
+3. https://habr.com/ru/post/273497/ - Про Secure Boot (старая статья, но полезная)
 
 # Сурсы с GITHUB (Добавляю все что мне интересно)
 

@@ -61,6 +61,7 @@
 3. https://wasm.in/blogs/vvedenie-v-reversing-s-nulja-ispolzuja-ida-pro-chast-1.3/ - Основы реверса в IDA
 4. https://forum.tuts4you.com - Мастхев форум с дикими реверсерами
 5. https://crackmes.one - сайт с большим кол-вом crackme от разных пользователей, можно найти много интересных крякми для тренировки реверса
+6. https://book.hacktricks.xyz - полезный сайт на английском, с чего начать, что и откуда курить :)
 
 ## Youtube Каналы
 

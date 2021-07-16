@@ -108,15 +108,26 @@
 
 ## Магнит материалов по пентесту
 
+```
 magnet:?xt=urn:btih:f91feb6d2ea93f1c3c03b6be52051c2df72da1b7&dn=CERTCOLLECTION+-+BASELINE+-+SANS+%26+Offensive-Security&tr=udp%3A//tracker.coppersurfer.tk%3A6969&tr=udp%3A//tracker.zer0day.to%3A1337&tr=udp%3A//public.popcorn-tracker.org%3A6969&tr=udp%3A//tracker.leechers-paradise.org%3A6969&tr=udp%3A//explodie.org%3A6969
+```
 
 ## Магнит 20гб ПрИвАтНоЙ инфы от Intel
 
+```
 magnet:?xt=urn:btih:38f947ceadf06e6d3ffc2b37b807d7ef80b57f21&dn=Intel%20exconfidential%20Lake%20drop%201
+```
 
 ## Магнит не утекших исходников не Windows XP
 
+```
 magnet:?xt=urn:btih:3d8b16242b56a3aafb8da7b5fc83ef993ebcf35b&dn=Microsoft%20leaked%20source%20code%20archive_2020-09-24&tr=udp%3a%2f%2ftracker.coppersurfer.tk%3a6969%2fannounce&tr=udp%3a%2f%2f9.rarbg.to%3a2920%2fannounce&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337&tr=udp%3a%2f%2ftracker.internetwarriors.net%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.leechers-paradise.org%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.pirateparty.gr%3a6969%2fannounce&tr=udp%3a%2f%2ftracker.cyberia.is%3a6969%2fannounce
+```
+
+## Магнит старого tuts4you. Много полезных исходников и туториалов
+```
+magnet:?xt=urn:btih:92de6ad02a7bf83c1ee105dec719741a8ccb7ec8&dn=Tuts%204%20You%20-%20Collection%202011
+```
 
 # Все что не вошло в темы
 1. https://t.me/ibach - тоже интересный канал, но к сожалению редко обновляют.

@@ -103,6 +103,7 @@
 11. https://github.com/j00ru/windows-syscalls - Таблица вызовов Syscall
 12. https://github.com/notscimmy/libelevate - Байпас ObRegisterCallback через один драйвер
 13. https://github.com/slack69/csgo-dma-overlay - DMA DirectX чит
+14. https://github.com/Mattiwatti/EfiGuard  - Efi модуль для отключения PG / DSE. Полезная штука, чтобы использовать свои драйверы
 
 # Torrent xD
 

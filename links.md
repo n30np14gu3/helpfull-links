@@ -63,6 +63,8 @@
 5. https://crackmes.one - сайт с большим кол-вом crackme от разных пользователей, можно найти много интересных крякми для тренировки реверса
 6. https://book.hacktricks.xyz - полезный сайт на английском, с чего начать, что и откуда курить :)
 7. https://back.engineering - еще полезный блог по реверсу
+8. https://www.vergiliusproject.com/ - Сайт для просмотра изменений в ядре
+9. https://ntdiff.github.io/ - Еще один сайт для просмотра изменений в ядре
 
 ## Youtube Каналы
 
@@ -82,11 +84,13 @@
 4. https://www.codeguru.com/cpp/w-p/system/devicedriverdevelopment/article.php/c8035/How-Do-Windows-NT-System-Calls-REALLY-Work.htm - Информация о сисколах на английском
 5. https://www.unknowncheats.me/forum/anti-cheat-bypass/271733-driver-aka-kernel-mode.html - Обход ObRegisterCallback на английском (оч понятно)
 6. https://www.unknowncheats.me/forum/c-and-c/59147-writing-drivers-perform-kernel-level-ssdt-hooking.html - Написание SSDT хука
+7. https://aviadshamriz.medium.com/part-1-fs-minifilter-hooking-7e743b042a9d - Минифльтр хуки (полезная штука для отлова приложений)
 
 ## UEFI / EFI
 1. https://habr.com/ru/company/acronis/blog/511172/ - В целом введение в разработку под UEFI
 2. https://habr.com/ru/post/266935/ - Тоже про UEFI (там много частей, так что стоит прочитать все)
 3. https://habr.com/ru/post/273497/ - Про Secure Boot (старая статья, но полезная)
+4. http://blog.cr4.sh/2015/07/building-reliable-smm-backdoor-for-uefi.html - SMM Bios Backdoor
 
 # Сурсы с GITHUB (Добавляю все что мне интересно)
 
@@ -104,6 +108,8 @@
 12. https://github.com/notscimmy/libelevate - Байпас ObRegisterCallback через один драйвер
 13. https://github.com/slack69/csgo-dma-overlay - DMA DirectX чит
 14. https://github.com/Mattiwatti/EfiGuard  - Efi модуль для отключения PG / DSE. Полезная штука, чтобы использовать свои драйверы
+15. https://github.com/SamLarenN/CallbackDisabler - Еще одна репа для выключения ProcessCallback
+16. https://github.com/adspro15/km-um-communication - Набор методов коммуникации между UM и KM
 
 # Torrent xD
 

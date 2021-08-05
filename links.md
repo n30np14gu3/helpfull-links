@@ -110,6 +110,7 @@
 14. https://github.com/Mattiwatti/EfiGuard  - Efi модуль для отключения PG / DSE. Полезная штука, чтобы использовать свои драйверы
 15. https://github.com/SamLarenN/CallbackDisabler - Еще одна репа для выключения ProcessCallback
 16. https://github.com/adspro15/km-um-communication - Набор методов коммуникации между UM и KM
+17. https://github.com/SamuelTulach/rainbow - SMBIOS / HWID / NIC спуфер через UEFI
 
 # Torrent xD
 

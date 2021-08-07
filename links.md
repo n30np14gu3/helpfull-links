@@ -52,7 +52,7 @@
 ## Для начала
 
 1. https://habr.com/ru/company/dsec/blog/334832/ - Список полезных материалов от Digital Security. Если не знаете с чего на часть, то начните с этого
-2. https://cloud.mail.ru/public/4aGL/3EFRUMvq6/  - OTUS курс по реверсу (старый)
+3. https://cloud.mail.ru/public/4aGL/3EFRUMvq6/  - OTUS курс по реверсу (старый)
 
 ## Сайты и блоги
 
@@ -65,6 +65,7 @@
 7. https://back.engineering - еще полезный блог по реверсу
 8. https://www.vergiliusproject.com/ - Сайт для просмотра изменений в ядре
 9. https://ntdiff.github.io/ - Еще один сайт для просмотра изменений в ядре
+10. https://habr.com/ru/company/dsec/blog/503130/ - Еще список плагинов / утилит / etc. для реверса.
 
 ## Youtube Каналы
 

@@ -52,7 +52,8 @@
 ## Для начала
 
 1. https://habr.com/ru/company/dsec/blog/334832/ - Список полезных материалов от Digital Security. Если не знаете с чего на часть, то начните с этого
-3. https://cloud.mail.ru/public/4aGL/3EFRUMvq6/  - OTUS курс по реверсу (старый)
+2. https://cloud.mail.ru/public/4aGL/3EFRUMvq6/  - OTUS курс по реверсу (старый)
+3. https://github.com/yutewiyof/intro-rev-ida-pro - Основы реврерса в IDA Pro (старый курс, но полезный для начинающих) 
 
 ## Сайты и блоги
 
@@ -86,6 +87,7 @@
 5. https://www.unknowncheats.me/forum/anti-cheat-bypass/271733-driver-aka-kernel-mode.html - Обход ObRegisterCallback на английском (оч понятно)
 6. https://www.unknowncheats.me/forum/c-and-c/59147-writing-drivers-perform-kernel-level-ssdt-hooking.html - Написание SSDT хука
 7. https://aviadshamriz.medium.com/part-1-fs-minifilter-hooking-7e743b042a9d - Минифльтр хуки (полезная штука для отлова приложений)
+8. https://github.com/XShar/Windows_Kernel_Programming - полезная информация для тех, кто хочет научиться писать драйвера под Windows
 
 ## UEFI / EFI
 1. https://habr.com/ru/company/acronis/blog/511172/ - В целом введение в разработку под UEFI
@@ -137,6 +139,11 @@ magnet:?xt=urn:btih:3d8b16242b56a3aafb8da7b5fc83ef993ebcf35b&dn=Microsoft%20leak
 ```
 magnet:?xt=urn:btih:92de6ad02a7bf83c1ee105dec719741a8ccb7ec8&dn=Tuts%204%20You%20-%20Collection%202011
 ```
+## Магнит еще слитой инфы по Windows
+```
+magnet:?xt=urn:btih:3D8B16242B56A3AAFB8DA7B5FC83EF993EBCF35B&dn=Microsoft+leaked+source+code+archive_2020-09-24&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2920%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.pirateparty.gr%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce
+```
+
 
 # Все что не вошло в темы
 1. https://t.me/ibach - тоже интересный канал, но к сожалению редко обновляют.

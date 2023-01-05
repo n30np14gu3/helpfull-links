@@ -67,6 +67,7 @@
 8. https://www.vergiliusproject.com/ - Сайт для просмотра изменений в ядре
 9. https://ntdiff.github.io/ - Еще один сайт для просмотра изменений в ядре
 10. https://habr.com/ru/company/dsec/blog/503130/ - Еще список плагинов / утилит / etc. для реверса.
+11. https://secret.club - еще прикольный сайт по реверсу
 
 ## Youtube Каналы
 

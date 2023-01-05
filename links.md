@@ -89,6 +89,7 @@
 6. https://www.unknowncheats.me/forum/c-and-c/59147-writing-drivers-perform-kernel-level-ssdt-hooking.html - Написание SSDT хука
 7. https://aviadshamriz.medium.com/part-1-fs-minifilter-hooking-7e743b042a9d - Минифльтр хуки (полезная штука для отлова приложений)
 8. https://github.com/XShar/Windows_Kernel_Programming - полезная информация для тех, кто хочет научиться писать драйвера под Windows
+9. https://www.unknowncheats.me/forum/general-programming-and-reversing/523359-introduction-physical-memory.html - Про физическую и виртуальную память
 
 ## UEFI / EFI
 1. https://habr.com/ru/company/acronis/blog/511172/ - В целом введение в разработку под UEFI
@@ -115,6 +116,7 @@
 15. https://github.com/SamLarenN/CallbackDisabler - Еще одна репа для выключения ProcessCallback
 16. https://github.com/adspro15/km-um-communication - Набор методов коммуникации между UM и KM
 17. https://github.com/SamuelTulach/rainbow - SMBIOS / HWID / NIC спуфер через UEFI
+18. https://github.com/mike1k/perses - Мутатор x86 процессора
 
 # Torrent xD
 

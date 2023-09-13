@@ -118,6 +118,7 @@
 16. https://github.com/adspro15/km-um-communication - Набор методов коммуникации между UM и KM
 17. https://github.com/SamuelTulach/rainbow - SMBIOS / HWID / NIC спуфер через UEFI
 18. https://github.com/mike1k/perses - Мутатор x86 процессора
+19. https://github.com/e-m-b-a/emba - Тулза для скана фирмварей на наличие уязвимостей
 
 # Torrent xD
 

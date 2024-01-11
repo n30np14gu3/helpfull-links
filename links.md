@@ -120,6 +120,8 @@
 18. https://github.com/mike1k/perses - Мутатор x86 процессора
 19. https://github.com/e-m-b-a/emba - Тулза для скана фирмварей на наличие уязвимостей
 20. https://github.com/67-6f-64/AntiOreans-CodeDevirtualizer - Девиртуализатор для темиды (форк также есть у меня на гите)
+21. https://github.com/ret2jazzy/disasm.pro - Сайтец для быстрого дизассемблирования кода (сайт - https://disasm.pro)
+22. https://github.com/keystone-engine/keystone - Движок для дизассемблирования
 
 # Torrent xD
 
